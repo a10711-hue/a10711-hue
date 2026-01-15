@@ -1,4 +1,4 @@
-<h2 align="left">Hi everyone!</h2>
+<h2 align="left">Hi everyone!<br>i am Rodrigo Silva<br>I am 18 years old.<br>MY favourite class is PSI</h2>
 
 ###
 
@@ -18,9 +18,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/a10711-hue/a10711-hue/output/snake.svg" alt="Snake animation" />
 
 ###
